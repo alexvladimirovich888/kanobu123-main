@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/archives/55857704.html",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/archives/55857704",
+      "destination": "/index.html"
+    }
+  ]
+}
